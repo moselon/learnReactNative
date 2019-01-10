@@ -55,6 +55,12 @@ fastlane/Preview.html
 fastlane/screenshots/**/*.png
 fastlane/test_output
 
+# node.js
+#
+node_modules/
+npm-debug.log
+yarn-error.log
+
 # Code Injection
 #
 # After new code Injection tools there's a generated folder /iOSInjectionProject

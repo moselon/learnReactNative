@@ -10,7 +10,8 @@
     "lodash": "^4.17.11",
     "react": "16.6.3",
     "react-native": "0.57.8",
-    "react-native-linear-gradient": "^2.5.3"
+    "react-native-linear-gradient": "^2.5.3",
+    "rn-fetch-blob": "^0.10.15"
   },
   "devDependencies": {
     "babel-jest": "23.6.0",
